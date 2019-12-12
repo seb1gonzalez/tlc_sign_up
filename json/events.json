@@ -1,31 +1,5 @@
 [
   {
-    "title": "All Day Event",
-    "start": "2019-08-01"
-  },
-  {
-    "title": "Long Event",
-    "start": "2019-08-07",
-    "end": "2019-08-10"
-  },
-  {
-    "id": "999",
-    "title": "Repeating Event",
-    "start": "2019-08-09T16:00:00-05:00"
-  },
-  {
-    "id": "999",
-    "title": "Repeating Event",
-    "start": "2019-08-16T16:00:00-05:00"
-  },
-
-  {
-    "title": "Click for Google",
-    "url": "http://google.com/",
-    "start": "2019-08-28"
-  },
-
-  {
     "title": "TLC Blood Drive 1 PT",
     "start": "2019-09-16"
   },
@@ -37,72 +11,145 @@
   },
   {
     "title": "UTEP Career Expo",
+    "url": "https://www.utep.edu/student-affairs/careers/events/List-of-Participants--Program-9.12.19.pdf",
     "start": "2019-09-19",
     "end": "2019-09-21"
   },
   {
+    "title": "CTIS Weekly Meeting",
+    "start": "2019-09-20T12:30"
+  },
+  {
     "title": "TLC First General Meeting",
+    "url": "http://ctis.utep.edu/calendar/1st_GM_FinalFlyer_fall19.pdf",
     "start": "2019-09-27T13:00:00",
     "end": "2019-09-27T14:00:00"
   },
   {
     "title": "Tailgate",
+    "url": "http://ctis.utep.edu/calendar/Tailgate_flyer.jpeg",
     "start": "2019-10-05T11:00:00"
   },
   {
     "title": "TRB Webinar: Practices for Stabilized and Recycled Base and Subgrade Materials",
+    "url": "https://www.utep.edu/engineering/ctis/utc/TLC.html",
     "start": "2019-10-07T12:00:00",
     "end": "2019-10-07T14:00:00"
   },
   {
     "title": "TRB Webinar: Design and Construction of Mechanically Stabilized Earth Structures",
+    "url": "http://ctis.utep.edu/calendar/TRB_Design_and_construction.pdf",
     "start": "2019-10-10T12:00:00",
     "end": "2019-10-10T13:30:00"
   },
   {
-    "title": "Adopt a Highway",
-    "start": "2019-10-12"
+    "title": "SELECT Presentation",
+    "url": "http://ctis.utep.edu/calendar/SELECT_Presentation.jpg",
+    "start": "2019-10-11T12:00",
+    "end" : "2019-10-11T13:00"
+  },
+  {
+    "title": "Adopt-a-Highway",
+    "url": "http://ctis.utep.edu/calendar/10-09Adopt_a_Highway.pdf",
+    "start": "2019-10-12T09:00",
+    "end" : "2019-10-12T10:30"
+  },
+  {
+    "title": "Benjamin Thesis Defense",
+    "url": "http://ctis.utep.edu/calendar/ben-thesis-defense.jpg",
+    "start": "2019-10-16T10:00:00"
   },
   {
     "title": "CTIS/TLC Forum",
-    "start": "2019-10-25"
+    "url": "https://docs.google.com/spreadsheets/d/1Oz5pfqXSQ_6l2-BeYxblssfemq_ku8BeefcxPsjCeSI/edit?usp=sharing",
+    "start": "2019-10-25T12:00",
+    "end": "2019-10-25T16:00"
+  },
+  {
+    "title": "Lincoln Middle School",
+    "url": "https://docs.google.com/spreadsheets/d/1g4y6E6gN2jKyTJt6D_UCos7SYeCH2q6e8TpPXG89CNQ/edit?usp=sharing",
+    "start": "2019-10-31T9:00",
+    "end": "2019-10-31T12:00"
+  },
+  {
+    "title": "Compliance Training",
+    "url": "http://ctis.utep.edu/calendar/19-20Compliance_Training.jpg",
+    "start": "2019-10-31"
   },
   {
     "title": "RSO Leadership Retreat",
     "start": "2019-11-08"
   },
   {
-    "title": "Adopt a Highway",
-    "start": "2019-11-09"
+    "title": "Professional Engineers Networking Mixer",
+    "url": "http://ctis.utep.edu/calendar/NSPE_Mixer.jpg",
+    "start": "2019-11-14T16:30",
+    "end": "2019-11-14T18:30"
+  },
+  {
+    "title": "Franklin STEM Outreach",
+    "start": "2019-11-14T18:00",
+    "end": "2019-11-14T20:00"
+  },
+  {
+    "title": "Okan Dissertation Defense",
+    "url": "http://ctis.utep.edu/calendar/okan_dissertation_defense.JPG",
+    "start": "2019-11-21T10:00:00"
   },
   {
     "title": "TLC Third General Meeting",
-    "start": "2019-11-15"
+    "url":  "http://ctis.utep.edu/calendar/TLC's 3rd General Meeting.JPG",
+    "start": "2019-11-22T13:00",
+    "end": "2019-11-22T14:00"
   },
   {
-    "title": "Hike",
-    "start": "2019-11-16"
-  },
-  {
-    "title": "RSO International Food Fair",
-    "start": "2019-11-18"
-  },
+    "title": "CTIS Picture Day",
+    "start": "2019-11-22T13:30"
 
-  {
-    "title": "TLC Secret Santa",
-    "start": "2019-11-21"
   },
   {
     "title": "Thanksgiving Potluck",
-    "start": "2019-11-22"
+    "url" :  "https://docs.google.com/spreadsheets/d/1Hr3L7GhMUVom8ACn4Pjc_pZbvl9VV2LAu1gZkFoQHDs/edit?usp=sharing",
+    "start": "2019-11-27T12:00",
+    "end" : "2019-11-27T14:00"
+  },
+  {
+    "title": "Thanksgiving-University Closed",
+    "start": "2019-11-28",
+    "end": "2019-11-30"
   },
   {
     "title": "Road-EO Competition",
     "start": "2019-12-06",
-    "end":"2019-12-08"
+    "end": "2019-12-08"
+  },
+  {
+    "title": "Dead Day",
+    "start": "2019-12-06"
+  },
+  {
+    "title": "Fall Final Exams",
+    "start": "2019-12-09",
+    "end": "2019-12-14"
+  },
+  {
+    "title": "TLC Toy Drive",
+    "url": "https://docs.google.com/spreadsheets/d/1Are1wx9mQ-VS1uL7rasBbqrgHFFSXJzsD1Lyv6uAZdA/edit#gid=0",
+    "start": "2019-12-04",
+    "end" : "2019-12-14"
+  },
+  {
+    "title": "Adopt a Highway",
+    "start": "2019-12-14"
+  },
+  {
+    "title": "CTIS/TLC Gift Exchange",
+    "start": "2019-12-20"
   },
   {
     "title": "CTIS Holiday Potluck",
-    "start": "2019-12-20"
+    "url" : "https://docs.google.com/spreadsheets/d/11W1rW9UJe9_w3I5z1d8TDDv8u9wCFBGBArqzmT1sme0/edit#gid=0",
+    "start": "2019-12-20T12:00",
+    "end": "2019-12-20T2:00"
   }
 ]
